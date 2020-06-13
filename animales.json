@@ -1,0 +1,36 @@
+{
+	"Defecto":[{
+	"Nombre":"equidna",
+	"Puntaje":{"Ave":0,"Reptil":0,"Mamifero":100}},
+	{
+	"Nombre":"ornitorrinco",
+	"Puntaje":{"Ave":0,"Reptil":0,"Mamifero":100}},
+	{
+	"Nombre":"kiwi",
+	"Puntaje":{"Ave":100,"Reptil":0,"Mamifero":0}}
+	
+	],
+	"Nodos":[
+		["A","Alas",{"Ave":3,"Reptil":1,"Mamifero":2}],
+		["B","Volar",{"Ave":3,"Reptil":0,"Mamifero":2}],
+		["C","Huevo",{"Ave":2,"Reptil":2,"Mamifero":0}],
+		["D","Garras",{"Ave":1,"Reptil":1,"Mamifero":2}],
+		["E","Patas",{"Ave":2,"Reptil":1,"Mamifero":2}],
+		["F","Cola",{"Ave":1,"Reptil":3,"Mamifero":2}],
+		["G","Dientes",{"Ave":1,"Reptil":2,"Mamifero":3}],
+		["H","Sangre Fria",{"Ave":0,"Reptil":3,"Mamifero":0}],
+		["I","Ojos Cesgados",{"Ave":0,"Reptil":3,"Mamifero":0}],
+		["J","Escamas",{"Ave":0,"Reptil":0,"Mamifero":0}],
+		["K","Corazon dos cabidades",{"Ave":3,"Reptil":0,"Mamifero":0}],
+		["L","Pico",{"Ave":3,"Reptil":0,"Mamifero":0}],
+		["M","Esxtremidades Cortas",{"Ave":0,"Reptil":3,"Mamifero":0}],
+		["N","Extremidades Largas",{"Ave":1,"Reptil":0,"Mamifero":2}],
+		["O","Pelo",{"Ave":0,"Reptil":0,"Mamifero":3}],
+		["P","Leche",{"Ave":0,"Reptil":0,"Mamifero":3}],
+		["Q","Plumas",{"Ave":3,"Reptil":0,"Mamifero":0}],
+		["R","Orejas",{"Ave":0,"Reptil":0,"Mamifero":3}],
+		["S","Labios",{"Ave":0,"Reptil":0,"Mamifero":3}],
+		["T","Viviparo",{"Ave":0,"Reptil":0,"Mamifero":3}],
+		["V","Sangre Caliente",{"Ave":2,"Reptil":0,"Mamifero":2}]
+	]
+}
